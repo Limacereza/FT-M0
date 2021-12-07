@@ -1,0 +1,23 @@
+h1 {color:chocolate}
+      img {width: 400px;}
+    #thirdDiv{
+        box-align: center;
+        width: 1300px;
+        height: 900px;
+        background-color: cornsilk;
+        padding: 50px;
+        border: 20px solid rgb(77, 65, 190);
+    }
+    #spanId{
+        font-size: 30px;
+        margin:50px;
+    }
+    body {
+        margin: 0 auto;
+        padding: 0 20px;
+        text-align: center;
+        background-image: url("https://image.freepik.com/vector-gratis/patron-fisuras-carne-blanca-boceto-carne-res-cerdo_1284-6067.jpg");
+    }
+    .divclass {
+        text-align: center;
+    }
